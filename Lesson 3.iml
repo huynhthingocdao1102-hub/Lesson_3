@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/chen-phan-tu-mang" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/convert-temperature" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/find-max-element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/find-min-element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gop-mang" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reverse-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/student-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tim-gia-tri-lon-nhat" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tim-max-ma-tran" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/xoa-phan-tu" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
